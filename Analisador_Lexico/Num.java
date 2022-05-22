@@ -1,3 +1,9 @@
+/*
+    Trabalho   -  Analisador Lexico
+    Alunos     -  Vitor Brandao Raposo & Fernando 
+    Professora -  Kecia Marques Ferreira
+*/
+
 package Analisador_Lexico;
 
 public class Num extends Token {
