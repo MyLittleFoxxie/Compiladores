@@ -1,0 +1,15 @@
+routine
+
+declare
+    int amor;
+
+    while (amor) do
+        while (amor) do
+            while (amor) do
+                while (amor) do
+        
+                end;
+            end;
+        end;
+    end;
+end

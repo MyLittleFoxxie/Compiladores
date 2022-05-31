@@ -1,6 +1,6 @@
 /*
     Trabalho   -  Analisador Lexico
-    Alunos     -  Vitor Brandao Raposo & Fernando 
+    Alunos     -  Vitor Brandao Raposo & Fernando Faria Soares 
     Professora -  Kecia Marques Ferreira
 */
 

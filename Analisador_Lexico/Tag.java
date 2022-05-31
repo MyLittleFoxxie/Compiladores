@@ -1,6 +1,6 @@
 /*
     Trabalho   -  Analisador Lexico
-    Alunos     -  Vitor Brandao Raposo & Fernando 
+    Alunos     -  Vitor Brandao Raposo & Fernando Faria Soares 
     Professora -  Kecia Marques Ferreira
 */
 
@@ -28,9 +28,9 @@ public class Tag {
             NOT = 272,
             AND = 273,
             OR = 274,
+            INDEX = 275,
 
             // Operadores e pontuação
-
             EQ = 288,
             GT = 289,
             GE = 290,
@@ -49,7 +49,9 @@ public class Tag {
             APOSTROPHE = 303,
             QUOTATION = 304,
             DOT = 305,
-
+            DOUBLE_APOSTROPHE = 306,
+            COLON = 307,
+            COMMENT = 308,
 
             // Outros tokens
             CONST_INT = 278,

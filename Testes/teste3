@@ -1,0 +1,24 @@
+routine
+declare
+    int a, aux;
+    float b;
+
+    begin
+        B := 0;
+        
+        read (a);
+        read(b);
+        if (a<>) b then
+        begin
+        
+            if (a>b) then
+                aux := b;
+                b := a;
+                a := aux;
+            end;
+            write(a;
+            write(b)
+        end
+        else
+            write("Numeros iguais.");
+end
