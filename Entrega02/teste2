@@ -1,0 +1,13 @@
+routine
+
+    int a, b, c;
+    float d, _var
+begin
+    read (a);
+    b := a * a;
+    c := b + a/2 * (35/b); %aplica formula
+    write c;
+    val := 34.2
+    c = val + 2. + a;
+    write (val)
+end
